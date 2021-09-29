@@ -1,9 +1,1 @@
-Player 1,18,Sun Jun 14 15:38:13 2020
-Player 1,20,Sun Jun 14 17:31:10 2020
-Player 1,46,Mon Jun 15 07:54:37 2020
-Adrien,57,Mon Jun 15 09:58:52 2020
-Adrien,178,Thu Jun 18 07:59:17 2020
-Adrien,107,Thu Jun 18 08:10:51 2020
-Player 1,7,Wed Sep 29 05:58:38 2021
-Nini,46,Wed Sep 29 06:02:30 2021
-Player 1,29,Wed Sep 29 06:03:05 2021
+
